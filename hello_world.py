@@ -3,7 +3,7 @@ def add(x, y):
     return a
 
 def print_KIT():
-    print("KIT")
+    print("K")
 
 if __name__ == '__main__':
     print_KIT()
